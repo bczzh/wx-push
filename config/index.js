@@ -1,10 +1,10 @@
-module.exports = {
-  appid: "wx71941f6106ae1072",
-  appsecret: "b4b2ad8a8d4a94e403831886ac10c646",
-  template_id: "q14lTqsDyK0N-KcZUs8UKHOl3GWn2uErDk-8hbm2ouQ",
-  touser: "oonWJ5slWuS2OrJdgCLM3GmNdxVk",
+模块。出口 = {
+  appid: “wx9450bf84542b2542“,
+  应用秘密: “94ea 833 e 01378 ab2ce 09652 fbf 79 Fe 35“,
+  模板id: “2W-mojf 3d 0 cyikm 0 lcgy _ HR S5 czhbet 9 qj5nl _ o _ o8U“,
+  图瑟: “oonWJ5slWuS2OrJdgCLM3GmNdxVk“,
 
-  key: "201c93c2e2b34bdeecdbf9f5265eb84e",
-  city: "邢台",
-  first_date: "2022-11-10",
+  键: “201 c93 C2 e 2b 34 bdeecdbf 9 f 5265 EB 84 e“,
+  城市: "黄埔",
+  第一次约会: "2018-10-14",
 };
